@@ -1,16 +1,28 @@
 ### Hi there 👋
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-<!--
-**lsewcx/lsewcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 正在研究c++开发
+  
 
-Here are some ideas to get you started:
+- 🌱 正在学习c++开发和深层次的算法
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❓ 可以向我询问有关c++和python的内容  
+  
+
+- ⚡肝！  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Christmas/github-readme-stats)
