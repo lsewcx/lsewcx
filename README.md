@@ -32,6 +32,8 @@
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
 </div>  
 
+<div>可以通过QQ:827800630    也可以通过微信号:a15261635921联系我</div>
+
 <br/> 
 
 
