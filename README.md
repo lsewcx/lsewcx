@@ -3,13 +3,13 @@
 ## You can call me Shien Liu The origin of my name WCX is my girlfriend's name, but I believe that soon she will be my wife
 <table><tr><td valign="top" width="50%">
 
-- 🔭 正在研究c++开发
+- 🔭 正在研究c++ AI模型推理加速的开发
   
 
-- 🌱 正在学习c++开发和深层次的算法
+- 🌱 正在学习c++CUDA编程
   
 
-- ❓ 可以向我询问有关c++和python的内容  
+- ❓ 可以向我询问有关c++/python/java的内容  
   
 
 - ⚡肝！
