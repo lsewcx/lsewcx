@@ -1,6 +1,6 @@
 ### 亻尔女 子👋
 ## Rapidfire  
-## 你可以叫我shien liu 名字的由来which wcx is my girlfriend's name She will be my wife soon after
+## You can call me Shien Liu The origin of my name WCX is my girlfriend's name, but I believe that soon she will be my wife
 <table><tr><td valign="top" width="50%">
 
 - 🔭 正在研究c++开发
