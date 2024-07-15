@@ -45,5 +45,5 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" />
 </div>
 <div align="center">
-![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true)
+    <img src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true"/>
 </div>
