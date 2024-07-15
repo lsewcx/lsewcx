@@ -1,9 +1,9 @@
 ### 亻尔女 子👋
 ## Rapidfire  
 ## You can call me Shien Liu The origin of my name WCX is my girlfriend's name, but I believe that soon she will be my wife
-<table><tr><td valign="top" width="50%" align="center">
+<table><tr><td valign="top" width="50%">
 
-- 🔭 正在研究c++ AI模型推理加速的开发
+- 🔭 正在研究c++ AI模型推理加速的开发z
   
 - 🌱 正在学习c++CUDA编程
   
