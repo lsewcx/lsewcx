@@ -1,17 +1,14 @@
 ### 亻尔女 子👋
 ## Rapidfire  
 ## You can call me Shien Liu The origin of my name WCX is my girlfriend's name, but I believe that soon she will be my wife
-<table><tr><td valign="top" width="50%">
-<div align="center">
+<table><tr><td valign="top" width="50%" align="center">
+
 - 🔭 正在研究c++ AI模型推理加速的开发
   
-
 - 🌱 正在学习c++CUDA编程
   
-
 - ❓ 可以向我询问有关c++/python/java的内容  
   
-
 - ⚡肝！
 
 - 🔭可以通过QQ:827800630    也可以通过微信号:a15261635921联系我
@@ -43,7 +40,7 @@
 </td></tr></table>  
 
 <br/>
-</div>
+
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" />
 </div>
