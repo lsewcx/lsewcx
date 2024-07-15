@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsewcx&show_icons=true&locale=en" alt="lsewcx" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lsewcx&theme=whatsapp-light2&locale=zh_Hans" alt="GitHub Streak" /></a></p>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lsewcx&theme=whatsapp-light2&locale=zh_Hans" alt="GitHub Streak" /></a></div>
