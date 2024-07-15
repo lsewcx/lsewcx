@@ -17,7 +17,6 @@
 - 🔭可以通过QQ:827800630    也可以通过微信号:a15261635921联系我
 
 - 家人们点个star吧谢谢了
-</div>
   
   ## Languages and Tools  
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -44,7 +43,7 @@
 </td></tr></table>  
 
 <br/>
-
+</div>
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" />
 </div>
