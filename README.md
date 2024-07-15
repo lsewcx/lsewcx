@@ -42,8 +42,8 @@
 <br/>
 
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsewcx&layout=compact" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lsewcx&show_icons=true"/>
 </div>
