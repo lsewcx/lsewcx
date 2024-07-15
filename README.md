@@ -44,4 +44,6 @@
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsewcx&layout=compact" />
 </div>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lsewcx&theme=darcula&hide_border=true&locale=zh_Hans" alt="GitHub Streak" /></a>
+</div>
