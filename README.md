@@ -1,50 +1,99 @@
-### 亻尔女 子👋
-## You can call me Shien Liu The origin of my name WCX is my girlfriend's name, but I believe that soon she will be my wife
-<table><tr><td valign="top" width="50%">
+<!--
+  GitHub Profile README · lsewcx
+  配色：sky #0ea5e9 → indigo #6366f1 → purple #a855f7
+-->
 
-- 🔭 正在研究c++ AI模型推理加速的开发
-  
-- 🌱 正在学习c++ CUDA编程
-  
-- ❓ 可以向我询问有关c++/python/java/js/ts的内容  
-  
-- ⚡肝！
+<div align="center">
 
-- 🔭可以通过QQ:827800630    也可以通过微信号:a15261635921联系我
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=200&section=header&text=Hi%2C%20I'm%20Shien%20Liu&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=C%2B%2B%20%C2%B7%20CUDA%20%C2%B7%20AI%20Inference&descAlignY=58&descSize=18&animation=fadeIn" alt="Hi, I'm Shien Liu" />
 
-- 家人们点个star吧谢谢了
-  
-- 我的邮箱是: liushien6@gamil.com
-
-想了解更多查看https://lsewcx.github.io/lse.github.io/
-<br/> 
-
-</td></tr></table>  
+<a href="https://github.com/lsewcx">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=C%2B%2B+%2F+CUDA+%2F+AI+Inference;Making+models+faster%2C+one+kernel+at+a+time;Open+source+enthusiast+%26+lifelong+learner;Keep+coding%2C+keep+shipping" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lsewcx&label=Profile%20views&color=0e75b6&style=flat" alt="lsewcx" /> </p>
+<img src="https://komarev.com/ghpvc/?username=lsewcx&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/lsewcx?label=Followers&style=flat-square&color=0ea5e9&logo=github" alt="GitHub followers" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://github-trophies.vercel.app/?username=lsewcx" alt="lsewcx GitHub trophies" /></a> </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 关于我
+
+你好，我是 **Shien Liu**。一名专注于 **AI 推理加速** 的开发者，喜欢在 C++ 和 GPU 的世界里抠性能，也喜欢用不同的语言把想法快速变成现实。
+
+- 🔭 **正在研究**：C++ AI 模型推理加速
+- 🌱 **正在学习**：C++ CUDA 编程、GPU 性能优化
+- 💬 **可以问我**：C++ / Python / Java / JavaScript / TypeScript
+- ⚡ **日常状态**：肝！
+- 🌐 **个人主页**：[lsewcx.github.io](https://lsewcx.github.io/lse.github.io/)
+
+> 💌 **关于「WCX」这个名字**：它来自我女朋友的名字。不过我相信，很快她就是我的妻子了。
+
+> ⭐ 如果我的项目帮到了你，点个 **Star** 就是对我最大的鼓励，家人们谢谢了！
+
+---
+
+## 🛠️ 技术栈
+
+**语言与基础**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,matlab" alt="Languages" />
+
+**AI / 数据**
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,pandas" alt="AI and Data" />
+
+**Web / 后端**
+
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,spring,django,mysql,redis,nginx" alt="Web and Backend" />
+
+**工具 / 平台**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,qt,android,blender,unity,electron,bootstrap,sass,tailwind,postman" alt="Tools and Platforms" />
+
+---
+
+## 📈 GitHub 数据
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lsewcx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsewcx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=cn" alt="Top languages" />
 
 
-  <div align="center">
-    <img
-      src="https://streak-stats.demolab.com?user=lsewcx&theme=whatsapp-light2&locale=zh_Hans"
-      alt="GitHub Streak"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lsewcx&theme=github"
-      alt="GitHub Stats"
-    />
-  </div>
+</div>
 
-  <div align="center">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lsewcx&theme=github"
-      alt="Top Languages"
-    />
-  </div>
+---
+
+## 📫 联系我
+
+<div align="center">
+
+<a href="mailto:liushien6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-liushien6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://wpa.qq.com/msgrd?v=3&uin=827800630&site=qq&menu=yes">
+  <img src="https://img.shields.io/badge/QQ-827800630-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
+</a>
+<img src="https://img.shields.io/badge/WeChat-a15261635921-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+<a href="https://lsewcx.github.io/lse.github.io/">
+  <img src="https://img.shields.io/badge/Blog-lsewcx.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
+</a>
+
+</div>
+
+---
+
+> “让模型跑得更快，让代码写得更简单。”
+
+<div align="center">
+
+**⭐ 家人们，点个 Star 再走呗，谢谢了！⭐**
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=120&section=footer" alt="Footer" />
+
+</div>
