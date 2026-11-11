@@ -40,19 +40,19 @@
 
 **语言与基础**
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,matlab" alt="Languages" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,java,js,ts,matlab" alt="Languages" />
 
 **AI / 数据**
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,pandas" alt="AI and Data" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,opencv,sklearn,pandas" alt="AI and Data" />
 
 **Web / 后端**
 
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,spring,django,mysql,redis,nginx" alt="Web and Backend" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,nodejs,spring,django,mysql,redis,nginx" alt="Web and Backend" />
 
 **工具 / 平台**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,qt,android,blender,unity,electron,bootstrap,sass,tailwind,postman" alt="Tools and Platforms" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,linux,git,qt,android,blender,unity,electron,bootstrap,sass,tailwind,postman" alt="Tools and Platforms" />
 
 ---
 
@@ -60,8 +60,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lsewcx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsewcx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=cn" alt="Top languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=lsewcx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lsewcx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=cn" alt="Top languages" />
 
 
 </div>
